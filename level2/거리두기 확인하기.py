@@ -1,6 +1,9 @@
 # https://programmers.co.kr/learn/courses/30/lessons/81302
 # https://www.youtube.com/watch?v=hCVgKE6qwFs
 
+
+# BFS 너비우선탐색
+
 import queue
 
 D = ((-1,0), (1, 0), (0, -1), (0, 1))
